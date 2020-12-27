@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a data science enthusiasm with knowledge of automotive and manufacturing processes. I may have no experience in working in the field but by no means I am less passionate about the subject 🚀 🚀 🚀 
+I am a data science enthusiasm with knowledge of automotive and manufacturing processes. 
+I may have no experience in working in the field but by no means I am less passionate about the subject 🚀 🚀 🚀 
 
 🌱 I’m currently learning to improve my skill on machine learning model at Kaggle 
 
