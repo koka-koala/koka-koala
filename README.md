@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I am a data science enthusiasm with knowledge of automotive and manufacturing processes. 
-I may have no experience in working in the field but by no means I am less passionate about the subject 🚀 🚀 🚀 
+I may have not much experience in working in the field but by no means I am less passionate about the subject 🚀 🚀 🚀 
 
-🌱 I’m currently learning to improve my skill on machine learning model at Kaggle 
+🌱 I’m currently learning to improve my skill on machine learning model at Kaggle
 
 <!--
 **koka-koala/koka-koala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
